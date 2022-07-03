@@ -5,7 +5,7 @@ html {
     margin: 0%;
     padding: 0%;
     scroll-behavior: smooth;
-    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Nunito', sans-serif;
 }
 
 #nav {
@@ -242,7 +242,7 @@ html {
 
 #project-card {
     width: 350px;
-    height: 610px;
+    height: 615px;
     border: 2px solid #212227;
     background-color: #F9F9F9;
     box-shadow: 10px 10px #cbc0d3;
